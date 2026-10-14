@@ -39,6 +39,7 @@ public class Solution {
             bufferedWriter.write(String.valueOf(result));
             bufferedWriter.newLine();
         }
+        
 
         bufferedReader.close();
         bufferedWriter.close();
