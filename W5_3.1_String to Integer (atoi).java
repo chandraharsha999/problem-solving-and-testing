@@ -27,6 +27,7 @@ class Solution {
             }
             result = result * 10 + digit;
             i++;
+            
         }
         return result * sign;
     }
